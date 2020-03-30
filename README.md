@@ -11,5 +11,5 @@ Templates of statistical and DL forecasting on some synthetic data and lastly pr
 - [x] [Recurrent Neural Network](https://github.com/niyazed/forecasting/blob/master/RNN_lambda.ipynb) - RNN with Lambda layer.
 - [x] [Long Short Term Memory](https://github.com/niyazed/forecasting/blob/master/LSTM.ipynb) - LSTM.
 
-And lastly sunspot forecasting with <b>Conv1D</b> including all above.
+And lastly sunspot forecasting with <b>Conv1D Layer</b> including all above.
 - [x] [Sunspot Forecasting](https://github.com/niyazed/forecasting/blob/master/sunspot_prediction.ipynb) - Sunspot Forecasting.
