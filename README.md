@@ -9,7 +9,7 @@ Templates of statistical and DL forecasting on some synthetic data and lastly pr
 - [x] [Single layer Neural Network](https://github.com/niyazed/forecasting/blob/master/single_layer_nn_prediction.ipynb) - Simple one layer NN implementation.
 - [x] [Deep Neural Network](https://github.com/niyazed/forecasting/blob/master/dnn_LRscheduler_prediction.ipynb) - DNN implementation with Learning rate scheduler.
 - [x] [Recurrent Neural Network](https://github.com/niyazed/forecasting/blob/master/RNN_lambda.ipynb) - RNN with Lambda layer.
-- [x] [Long Short Term Memory](https://github.com/niyazed/forecasting/blob/master/LSTM.ipynb) - LSTM.
+- [x] [Long Short Term Memory](https://github.com/niyazed/forecasting/blob/master/LSTM.ipynb) - LSTM implementation.
 
 And lastly sunspot forecasting with <b>Conv1D Layer</b> including all above.
 - [x] [Sunspot Forecasting](https://github.com/niyazed/forecasting/blob/master/sunspot_prediction.ipynb) - Sunspot Forecasting.
