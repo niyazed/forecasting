@@ -1,2 +1,2 @@
-# 📈 stat.forecasting 
-A simple template of statistical forecasting on some synthetic data
+# 📈 forecasting
+A simple template of statistical and DL forecasting on some synthetic data
